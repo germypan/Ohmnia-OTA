@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "0.7.0",
-  "apkUrl": "https://github.com/germypan/Ohmnia-OTA/releases/download/v0.7.0/Ohmnia-v0.7.0-signed.apk",
-  "notes": "Prima versione firmata con aggiornamenti OTA automatici."
+  "versionCode": 12,
+  "versionName": "0.7.1",
+  "apkUrl": "https://github.com/germypan/Ohmnia-OTA/releases/download/v0.7.1/Ohmnia-v0.7.1-signed.apk",
+  "notes": "Nuovo percorso diagnostico di base in 8 guide: sicurezza, multimetro, controlli spenti e alimentati, corrente limitata, schema, oscilloscopio e interpretazione. Aggiunta la spiegazione delle equivalenze curate."
 }
