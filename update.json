@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "0.8.1",
-  "apkUrl": "https://github.com/germypan/Ohmnia-OTA/releases/download/v0.8.1/Ohmnia-v0.8.1-signed.apk",
-  "notes": "Service Manual ampliato con 8 archivi gratuiti, oltre 90.000 documenti nel solo AudioCircuit e ricerca federata per marchio e modello."
+  "versionCode": 15,
+  "versionName": "0.9.0",
+  "apkUrl": "https://github.com/germypan/Ohmnia-OTA/releases/download/v0.9.0/Ohmnia-v0.9.0-signed.apk",
+  "notes": "Catalogo Service Manual interno: scegli marchio, modello e revisione direttamente in Ohmnia. Il browser si apre solo sul PDF selezionato."
 }
