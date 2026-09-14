@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
+  "versionCode": 17,
   "versionName": "0.9.1",
-  "apkUrl": "https://github.com/germypan/Ohmnia-OTA/releases/download/v0.9.1/Ohmnia-v0.9.1-signed.apk",
-  "notes": "Aggiunti amplificatori chitarra/basso e pedali/effetti: oltre 45 indici di marchio, filtri dedicati e navigazione interna per modello e revisione."
+  "apkUrl": "https://github.com/germypan/Ohmnia-OTA/releases/download/v0.9.2/Ohmnia-v0.9.2-signed.apk",
+  "notes": "Corretto il catalogo BOSS: importazione interna di 64 schemi più service manual e revisioni da una seconda raccolta tecnica."
 }
