@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "0.9.0",
-  "apkUrl": "https://github.com/germypan/Ohmnia-OTA/releases/download/v0.9.0/Ohmnia-v0.9.0-signed.apk",
-  "notes": "Catalogo Service Manual interno: scegli marchio, modello e revisione direttamente in Ohmnia. Il browser si apre solo sul PDF selezionato."
+  "versionCode": 16,
+  "versionName": "0.9.1",
+  "apkUrl": "https://github.com/germypan/Ohmnia-OTA/releases/download/v0.9.1/Ohmnia-v0.9.1-signed.apk",
+  "notes": "Aggiunti amplificatori chitarra/basso e pedali/effetti: oltre 45 indici di marchio, filtri dedicati e navigazione interna per modello e revisione."
 }
